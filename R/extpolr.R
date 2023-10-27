@@ -10,8 +10,8 @@
 #' ESPECIFICAR TODO LOS DETALLES TËCNICOS NECESARIOS
 #' PUEDEN USARSE VARIAS LINEAS E INTRODUCIR ECUACIONES
 #' \deqn{\hat{\sigma}^2_y = \frac{\sum_s w_k (y_k - \bar{y}_w)^2}{\sum_s w_k}}
-#' @author Javier Nuñez <Javier_Nunez at inec.gob.ec>
-#' @author Christian Garces <Christian_Garces at inec.gob.ec>
+#' @author Javier Nuñez <javier_nunez at inec.gob.ec>
+#' @author Angel Gaibor <angel_gaibor at inec.gob.ec>
 #' @param poli Non-adjacent polygons generally refer to blocks.
 #' @param profile The polygon that defines the area where the extension work will take place
 #' @param id ID of the original Primary Sampling Units
